@@ -15,7 +15,7 @@
 * 项目开发
 
   * [敲代码的前一步是画图](note/业务流程图.md)
-  * [CI/CD初窥—GitHub action](note/github _actions.md)
+  * [CI/CD初窥—GitHub action](note/githubActions.md)
 
 # 课程资料
 
